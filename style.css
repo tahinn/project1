@@ -1,0 +1,34 @@
+body{
+    position:relative;
+}
+.menuarea{
+    padding:10px; 0;
+}
+.section{
+    background:#000;
+    text-align:center;
+    align-items:center;
+    height:100vh;
+    color:#FFF;
+    display:flex;
+    justify-content:center;
+    
+}
+#about{
+    background:#3498db;
+}
+#contact{
+    background:#9b59b6;
+}
+#news{
+    background:#34495e;
+}
+#blog{
+    background:#e74c3c;
+}
+ul li{
+    display:inline-block;
+}
+.logo h2{
+    font-size:26px;
+}
